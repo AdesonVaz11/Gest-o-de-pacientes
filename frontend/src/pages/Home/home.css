@@ -1,0 +1,29 @@
+
+.carousel {
+  padding-top: 10px;
+  width: 80%; /* Largura do carrossel */
+  margin: 0 auto; /* Centraliza o carrossel horizontalmente */
+}
+
+/* Estilo para as imagens nos slides do carrossel */
+.carousel-item img {
+  width: 100%; /* As imagens ocuparão toda a largura do slide */
+  height: auto; /* Altura ajustável conforme a largura */
+}
+
+/* Estilo para os controles do carrossel */
+.carousel-control-prev,
+.carousel-control-next {
+  width: 5%; /* Largura dos controles de navegação */
+  
+}
+
+/* Estilização dos indicadores (pontinhos) do carrossel */
+.carousel-indicators {
+  bottom: 10px; /* Posição dos indicadores em relação ao carrossel */
+  
+  
+}
+
+
+    
